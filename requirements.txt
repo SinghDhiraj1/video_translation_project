@@ -1,0 +1,16 @@
+wheel
+tqdm
+gtts
+pydub
+moviepy
+SpeechRecognition
+googletrans==3.1.0a0
+librosa
+ffmpeg
+ipykernel
+ipython
+tokenizer
+transformers
+torch==2.0.1 
+torchvision==0.15.2 
+torchaudio==2.0.2
